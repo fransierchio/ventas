@@ -1,0 +1,10 @@
+Jamon,10,0
+Queso,20,5
+Pan,11,1
+Seven Up,12,0
+Coca-cola,13,3
+Cafe,14,4
+Azucar,15,6
+Sal,16,3
+Harina Pan,17,1
+Harina de Trigo,18,8
